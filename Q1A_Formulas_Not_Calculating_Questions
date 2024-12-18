@@ -1,1 +1,11 @@
++ There could be multiple reasons behind excel showing the formula instead of result:
 
++ Cells are formatted as the text.
+
++ Before the sign of = there is no space.
+
++ Use semicolons in replace of Commos.
+
+https://answers.microsoft.com/en-us/msoffice/forum/all/why-does-excel-display-my-formula-in-the-cell/12a4fe8d-4b6c-4f3c-82be-9000489d94a0
+
+https://www.ablebits.com/office-addins-blog/excel-formulas-not-working/

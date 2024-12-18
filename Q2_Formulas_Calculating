@@ -1,2 +1,20 @@
 **Common Excel Troubleshooting Techniques**
 
+**Calc!** error: when using formulas that returns array and excel cannot explain them.
+
+**#Name?** error: if you use the a named range that has not been defined, it will returned this error.
+
+**#Value!** error: Extra spaces characters in text values can cause excel to interpret them as text instead of numbers.
+
+
+**Websites used**: 
+
+https://www.goskills.com/Excel/Resources/Excel-errors
+
+
+https://www.indeed.com/career-advice/career-development/excel-formula-errors
+
+
+
+
+
